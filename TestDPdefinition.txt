@@ -1,0 +1,13 @@
+1. Strategy
+2. Composite
+3. Proxy
+4. Prototype
+5. chain of resp.
+6. visitor
+7. Mediator
+8. Builder
+9. Abstract Factory
+10. Decorator
+11. memento
+12. Template Method
+13. Adapter
